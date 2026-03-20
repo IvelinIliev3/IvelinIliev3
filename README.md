@@ -13,5 +13,5 @@
 - **Databases:** MS SQL Server, PostgreSQL
 
 ### 📫 How to reach me:
-- [LinkedIn] (https://www.linkedin.com/in/ivelin-iliev-842a1318b/)
+- [LinkedIn](https://www.linkedin.com/in/ivelin-iliev-842a1318b/)
 - 📧 iliev.ivn@gmail.com
